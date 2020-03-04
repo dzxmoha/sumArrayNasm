@@ -1,0 +1,1 @@
+nasm.exe -o main.com  lib.asm -P main.asm
